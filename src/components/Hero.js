@@ -1,5 +1,6 @@
 import React from 'react';
 import '../assets/styles/Hero.css';
+
 const Hero = () => (
   <section className="hero">
     <h1>Reimagining the future of cities.</h1>
