@@ -1,11 +1,12 @@
-import React from 'react';
-import Skills from '../components/Skills';
-import Experience from '../components/Experience';
+
+import ServicesComponent  from '../components/ServicesComponent';
+
 
 const Services = () => (
   <div>
-    <Experience />
-    <Skills />
+
+    <ServicesComponent />
+
   </div>
 );
 

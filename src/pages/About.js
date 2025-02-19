@@ -1,9 +1,10 @@
 import React from 'react';
-import AboutMeWords from '../components/AboutMe';
+import AboutMe from '../components/AboutMe'; // ✅ Default export
+
 
 const About = () => (
   <div>
-    <AboutMeWords />
+    <AboutMe />
   </div>
 );
 
